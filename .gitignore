@@ -88,3 +88,5 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+Xylophone/Assets.xcassets/AppIcon.appiconset/.DS_Store
+.DS_Store
